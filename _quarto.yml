@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "lecture5_collab_cnd34"
+  title: "Cody and Quam"
   navbar:
     left:
       - href: index.qmd
