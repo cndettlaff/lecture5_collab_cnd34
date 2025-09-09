@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+output-dir: docs
+
+website:
+  title: "lecture5_collab_cnd34"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+
